@@ -10,7 +10,7 @@
 
 ### In-class Assignments
 
-- ICA1 https://docs.google.com/document/d/1Q-swDNaD-mHNHRXiMq68TgNVNuxbWcc9XQyF868RFFM/edit?usp=sharing
+- [ICA1](https://docs.google.com/document/d/1Q-swDNaD-mHNHRXiMq68TgNVNuxbWcc9XQyF868RFFM/edit?usp=sharing)
 - ICA2
 - ICA3
 - ICA4
@@ -28,7 +28,7 @@
 
 ### Weekly Assignments
 
-- WA1 https://julialyons03.github.io/wa/wa1.html
+- [WA1](https://julialyons03.github.io/wa/wa1.html)
 - WA2
 - WA3
 - WA4
