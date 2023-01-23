@@ -10,7 +10,7 @@
 
 ### In-class Assignments
 
-- ICA1
+- ICA1 https://docs.google.com/document/d/1Q-swDNaD-mHNHRXiMq68TgNVNuxbWcc9XQyF868RFFM/edit?usp=sharing
 - ICA2
 - ICA3
 - ICA4
