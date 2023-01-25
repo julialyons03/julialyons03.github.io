@@ -11,7 +11,7 @@
 ### In-class Assignments
 
 - [ICA1](https://docs.google.com/document/d/1Q-swDNaD-mHNHRXiMq68TgNVNuxbWcc9XQyF868RFFM/edit?usp=sharing)
-- [ICA2] (https://docs.google.com/document/d/1E_Ay89zsly3tHGzSMZjj2LzrlFTO6CXeFaqskSbpG8w/edit?usp=sharing) 
+- [ICA2](https://docs.google.com/document/d/1E_Ay89zsly3tHGzSMZjj2LzrlFTO6CXeFaqskSbpG8w/edit?usp=sharing) 
 - ICA3
 - ICA4
 - ICA5
