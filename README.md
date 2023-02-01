@@ -12,7 +12,7 @@
 
 - [ICA1](https://docs.google.com/document/d/1Q-swDNaD-mHNHRXiMq68TgNVNuxbWcc9XQyF868RFFM/edit?usp=sharing)
 - [ICA2](https://docs.google.com/document/d/1E_Ay89zsly3tHGzSMZjj2LzrlFTO6CXeFaqskSbpG8w/edit?usp=sharing) 
-- ICA3a
+- [ICA3a](https://julialyons03.github.io/ica3a.html)
 - ICA3b
 - ICA4
 - ICA5
