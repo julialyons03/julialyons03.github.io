@@ -4,7 +4,7 @@
 
 ### Projects
 
-- HTML
+- [HTML](https://julialyons03.github.io/html-midterm/page5.html)
 - CSS
 - JS
 
