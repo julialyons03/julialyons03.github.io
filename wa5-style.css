@@ -1,0 +1,31 @@
+.container{
+    position: relative;
+    width: 60%;
+    margin: auto;
+}
+
+.image{
+    display: block;
+    width: 100%;
+    height: auto;
+
+}
+
+.overlay{
+    position : fixed;
+    display : none;
+    height : 50%;
+    width : 50%;
+    background-color : darkblue;
+}
+
+.text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+}
+
+
+
