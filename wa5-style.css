@@ -21,6 +21,15 @@
     background-color: darkblue;
 }
 
+.overlay-text{
+    position: absolute;
+    top: 525px;
+    left: 80px;
+    font-size: 30px;
+    color: darkblue;
+    background-color: white;
+}
+
 
 .overlay-second{
     position: absolute;
@@ -28,6 +37,13 @@
     right: 20px;
     font-size: 20px;
     color: darkslategrey;
+}
+
+.image2{
+    position: absolute;
+    bottom: 40px;
+    right: 31px;
+    width: 10%
 }
 
 
