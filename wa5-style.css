@@ -11,21 +11,23 @@
 
 }
 
-.overlay{
-    position : fixed;
-    display : none;
-    height : 50%;
-    width : 50%;
-    background-color : darkblue;
-}
 
-.text{
+.overlay-title{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 450px;
+    left: 50px;
     font-size: 50px;
     color: white;
+    background-color: darkblue;
 }
 
+
+.overlay-second{
+    position: absolute;
+    bottom: 7px;
+    right: 20px;
+    font-size: 20px;
+    color: darkslategrey;
+}
 
 
