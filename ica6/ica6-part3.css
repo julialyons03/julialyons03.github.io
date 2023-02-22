@@ -2,13 +2,13 @@
     background-color: green;
 }
 #wideScreen{
-    background-color: red;
+    background-color: lightblue;
 }
 #shortScreen{
     background-color: turquoise;
 }
 #tallScreen{
-    background-color: lavender;
+    background-color: orange;
 }
 
 @media only screen and (max-width: 600px) {
@@ -16,3 +16,22 @@
         background-color: purple;
     }
 }
+
+@media only screen and (max-width: 800px) {
+    #wideScreen{
+        background-color: red;
+    }
+}
+
+@media only screen and (max-height: 500px){
+    #shortScreen{
+        background-color: yellow;
+    }
+}
+
+@media only screen and (max-height: 800px){
+    #tallScreen{
+        background-color: lavender;
+    }
+}
+
