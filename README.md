@@ -17,8 +17,8 @@
 - [ICA4](https://julialyons03.github.io/ica4.html)
 - [ICA5](https://julialyons03.github.io/ica5/ica5.html)
 - [ICA6a](https://julialyons03.github.io/ica6/ica6-part1.html)
-- [ICAb](https://julialyons03.github.io/ica6/ica6-part2.html)
-- [ICAc](https://julialyons03.github.io/ica6/ica6-part3.html)
+- [ICA6b](https://julialyons03.github.io/ica6/ica6-part2.html)
+- [ICA6c](https://julialyons03.github.io/ica6/ica6-part3.html)
 - ICA7
 - ICA8
 - ICA9
@@ -36,7 +36,7 @@
 - [WA3](https://julialyons03.github.io/wa/wa3.html)
 - [WA4](https://julialyons03.github.io/wa/wa4.html)
 - [WA5](https://julialyons03.github.io/wa5.html)
-- WA6
+- [WA6](https://julialyons03.github.io/wa6/wa6-index.html)
 - WA7
 - WA8
 - WA9
