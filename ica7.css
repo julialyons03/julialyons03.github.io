@@ -1,0 +1,52 @@
+body{
+    background-color: khaki;
+}
+#box1{
+    width: 20vw;
+    height: 25vh;
+    background-color: indianred;
+    
+}
+
+#box1:hover{
+    background-color: purple;
+}
+
+#box2{
+    width: 20vw;
+    height:25vh;
+    position: relative;
+    background-color: orangered;
+}
+
+#box2{
+    animation-duration: 8s, 8s;
+    animation-name: move, spin;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes move{
+    from {
+        margin-left: 100%;
+        background-color: orange;
+    }
+
+    70%{
+        background-color: orangered;
+    }
+
+    to {
+        margin-right: 100%;
+        background-color: orange;
+    }
+}
+
+@keyframes spin{
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
