@@ -1,0 +1,76 @@
+html{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:pink;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: orange;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color: brown;
+}
+
+
+img{
+    width:22vw;
+    height: 30vh;
+    padding-top: 100px;
+}
+
+img:hover{
+    animation: spin;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes spin{
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+
+#red-ball{
+    background-color: yellow;
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+    position: absolute;
+    left:20vw;
+    top:0;
+}
+
+#red-ball{
+    animation: move;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes move{
+    from{
+        margin-bottom: 50%;
+        background-color: orangered;
+    }
+    to{
+        margin-top: 50%;
+    }
+}
+
+
+
