@@ -37,7 +37,7 @@
 - [WA4](https://julialyons03.github.io/wa/wa4.html)
 - [WA5](https://julialyons03.github.io/wa5.html)
 - [WA6](https://julialyons03.github.io/wa6/wa6-index.html)
-- WA7
+- [WA7](https://julialyons03.github.io/wa7.html)
 - WA8
 - WA9
 - WA10
