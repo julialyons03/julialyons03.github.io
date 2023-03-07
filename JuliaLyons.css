@@ -1,0 +1,35 @@
+html{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        rgb(179, 176, 172) 0%,
+        rgb(179, 176, 172) 50%,
+        rgb(147, 135, 132) 50%,
+        rgb(147, 135, 132) 100%
+    );
+}
+
+h1{
+    color:rgb(83, 74, 80);
+    text-align: center;
+    font-size: 50px;
+    position: sticky;
+}
+
+.image1{
+    width: 18vw;
+    height: auto;
+    padding-left: 5%;
+}
+
+.image2{
+    width: 14vw;
+    height: auto;
+    padding-left: 10%;
+}
+
