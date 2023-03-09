@@ -7,8 +7,8 @@ body{
     height: 100vh;
     background: linear-gradient(
         to right,
-        rgb(179, 176, 172) 0%,
-        rgb(179, 176, 172) 50%,
+        rgb(199, 196, 191) 0%,
+        rgb(199, 196, 191) 50%,
         rgb(147, 135, 132) 50%,
         rgb(147, 135, 132) 100%
     );
@@ -31,5 +31,13 @@ h1{
     width: 14vw;
     height: auto;
     padding-left: 10%;
+}
+
+#bio{
+    text-align: center;
+    position: fixed; right: 60px; top: 200px;
+    color: rgb(199,196,191);
+    font-size: 20px;
+    
 }
 
