@@ -75,6 +75,9 @@ nav ul{
 @media only screen and (max-width: 600px){
     #bio{
         color: rgb(82, 75, 80);
+        font-size: 1.4vw;
+        text-align: center;
+        position: absolute;
     }
 }
 
