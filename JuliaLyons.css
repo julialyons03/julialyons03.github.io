@@ -90,7 +90,8 @@ nav ul{
     }
 
     .image1{
-        display: block;
+        display: flex;
+        justify-content: center;
         position: relative; top: 0px; 
         text-align: center;
         margin-left:auto;
@@ -98,9 +99,5 @@ nav ul{
         max-width: 100%;
         width: 250px;
         height:auto;
-
-
     }
 }
-
-
