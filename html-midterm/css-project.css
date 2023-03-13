@@ -17,28 +17,28 @@ body{
         rgb(147, 135, 132) 50%,
         rgb(147, 135, 132) 100%
     );
+    display: flex;
 }
 
 h1{
     font-family: helloHoney;
     color:rgb(82, 75, 80);
     text-align: center;
-    font-size: 7vw;
+    font-size: 100px;
     position: sticky;
+    display: flex;
 }
 
 .image1{
     width: 20vw;
     height: auto;
     position: relative; left: 80px; bottom: 100px;
-    max-width: 100%;
 }
 
 .image2{
     width: 16vw;
     height: auto;
     position: relative; left: 120px; bottom: 0px;
-    max-width: 100%;
 }
 
 #bio{
@@ -46,7 +46,7 @@ h1{
     text-align: left;
     position: absolute; right: 60px; top: 250px;
     color: rgb(199,196,191);
-    font-size: 1.4vw;
+    font-size: 20px;
 }
 
 a{
@@ -71,11 +71,3 @@ nav ul{
     margin: 0;
     padding: 0;
 }
-
-@media only screen and (max-width: 600px){
-    #bio{
-        color: rgb(82, 75, 80);
-    }
-}
-
-
