@@ -5,7 +5,7 @@
 ### Projects
 
 - [HTML](https://julialyons03.github.io/html-midterm/page5.html)
-- CSS
+- [CSS](https://julialyons03.github.io/JuliaLyons.html)
 - JS
 
 ### In-class Assignments
