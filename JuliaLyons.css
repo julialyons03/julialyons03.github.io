@@ -81,4 +81,14 @@ nav ul{
     }
 }
 
+@media only screen and (max-width: 600px){
+    .image2{
+        display: none;
+    }
+
+    .image1{
+        position: absolute;
+    }
+}
+
 
