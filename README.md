@@ -21,7 +21,7 @@
 - [ICA6c](https://julialyons03.github.io/ica6/ica6-part3.html)
 - [ICA7](https://julialyons03.github.io/ica7.html)
 - ICA8
-- ICA9
+- [ICA9](https://julialyons03.github.io/ica9.html)
 - ICA10
 - ICA11
 - ICA12
