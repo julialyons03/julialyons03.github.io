@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #button {
+            border: 5px solid rgb(253, 158, 174);
+            background-color: pink ; 
+            border-radius: 20px;
+            padding: 25px 50px;
+            width: 250px;
+            font-size: 50px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div id="button">
+        <p>click me!</p>
+    </div>
+
+    <div class = "form">
+        <label for="guessField">Enter a guess: </label>
+        <input type="number" min="1" max="100" required id="guessField" class="guessField">
+        <input type="submit" value="Submit guess" class="guessSubmit">
+    
+        <br>
+
+        <p><button id="backgroundButton">Click Here!</button></p>
+
+        <h2>Pick a number: 1 through 10</h2>
+        <button id="generate-button">Were you right?</button>
+        <p id = "result"></p>
+
+    <script>
+
+        console.log("Hello, World!");
+        let btn = document.querySelector("#button");
+        //console.log(btn);
+
+        function changeBtn() {
+            // console.log("This worked!");
+            btn.textContent = "TEST";
+            btn.style.backgroundColor = "rgb(253, 158, 174)";
+            btn.style.border = "5px solid pink";
+            btn.style.color = "white";
+        }
+
+        btn.addEventListener('click', changeBtn);
+
+        function checkGuess() {
+            //alert('I am a placeholder');
+            //alert(userGuess.value);
+
+            let value = userGuess.value * 2;
+            alert(value);
+        }
+
+        let guessBtn = document.querySelector(".guessSubmit");
+        let userGuess = document.querySelector(".guessField");
+       // console.log(guessBtn);
+       guessBtn.addEventListener('click' , checkGuess);
+
+       document.getElementById("backgroundButton").addEventListener("click",function(){
+        document.body.style.backgroundColor = "lightblue";
+       });
+
+       //let x = math.floor((Math.random()*10)+1);
+       //document.getElementById("math").innerHTML;
+
+       document.getElementById("generate-button").addEventListener("click",function(){
+        let randomNumber = Math.floor(Math.random()*10+1);
+
+        document.getElementById("result").textContent = randomNumber;
+       });
+
+    </script>
+</body>
+</html>
