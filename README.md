@@ -40,7 +40,7 @@
 - [WA7](https://julialyons03.github.io/wa7.html)
 - WA8
 - [WA9](https://julialyons03.github.io/wa9.html)
-- WA10
+- [WA10](https://julialyons03.github.io/assignment9.html)
 - WA11
 - WA12
 - WA13
