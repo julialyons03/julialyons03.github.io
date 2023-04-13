@@ -24,7 +24,7 @@
 - [ICA9](https://julialyons03.github.io/ica9.html)
 - [ICA10](https://julialyons03.github.io/ica10.html)
 - [ICA11](https://julialyons03.github.io/ica11.html)
-- ICA12
+- [ICA12](https://julialyons03.github.io/ica12.html)
 - ICA13
 - ICA14
 - ICA15
