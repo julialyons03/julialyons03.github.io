@@ -96,3 +96,4 @@ const sam = {
     });
     
     console.log(techStars);
+    JSON.stringify;
