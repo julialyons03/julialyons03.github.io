@@ -31,9 +31,9 @@ const sam = {
     raiseEligible: false,
     };
     
-    console.log(sam);
-    console.log(mary);
-    console.log(bill);
+    console.log(JSON.stringify(sam));
+    console.log(JSON.stringify(mary));
+    console.log(JSON.stringify(bill));
     
     // Problem 2
     // create JSON for company
@@ -46,7 +46,7 @@ const sam = {
     employees: employeeList,
     };
     
-    console.log(techStars);
+    console.log(JSON.stringify(techStars));
     
     // Problem 3
     // add anna
@@ -61,7 +61,7 @@ const sam = {
     
     techStars.employees.push(anna);
     
-    console.log(techStars);
+    console.log(JSON.stringify(techStars));
     
     // Problem 4:
     // calculate total salary
@@ -71,7 +71,7 @@ const sam = {
     totalSalary += techStars.employees[i].salary;
     }
     
-    console.log(totalSalary);
+    console.log(JSON.stringify(totalSalary));
     
     // Problem 5
     // give raise of 10% or set eligibility to false
@@ -84,7 +84,7 @@ const sam = {
     }
     
     techStars.employees.forEach(raise);
-    console.log(techStars);
+    console.log(JSON.stringify(techStars));
     
     // Problem 6
     // update company JSON for people working from home
@@ -95,5 +95,4 @@ const sam = {
     employee.wfh = workFromHome.includes(employee.firstName);
     });
     
-    console.log(techStars);
-    JSON.stringify;
+    console.log(JSON.stringify(techStars));
