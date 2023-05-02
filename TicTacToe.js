@@ -25,7 +25,7 @@ function addGo(e){
    goDisplay.classList.add(go)
    e.target.append(goDisplay)
    go = go === "circle" ? "cross" : "circle"
-   infoDisplay.textContent = "it is now " + go + "'s turn."
+   infoDisplay.textContent = "It is now " + go + "'s turn."
    e.target.removeEventListener("click",addGo)
    checkScore()
 }
