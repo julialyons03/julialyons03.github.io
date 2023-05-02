@@ -44,5 +44,5 @@
 - [WA11](https://julialyons03.github.io/assignment11.html)
 - [WA12](https://julialyons03.github.io/wa12.html)
 - [WA13](https://julialyons03.github.io/assignment13.html)
-- WA14
+- [WA14](http://julialyons.me/wa14.html)
 - WA15
